@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Colorful
+Comment=Colorful theme for plasma by vince
+
+X-KDE-PluginInfo-Author=Rayhua
+X-KDE-PluginInfo-Email=rayhua.yang@outlook.com
+X-KDE-PluginInfo-Name=Colorful
+X-KDE-PluginInfo-Version=5.84.0
+X-KDE-PluginInfo-Website=https://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=1.4
+saturation=10
+
+[AdaptiveTransparency]
+enabled=true

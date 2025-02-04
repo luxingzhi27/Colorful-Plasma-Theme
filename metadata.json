@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "rayhua.yang@outlook.com",
+                "Name": "Colorful"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [],
+        "Description": "Colorful theme for plasma",
+        "EnabledByDefault": true,
+        "Id": "Colorful",
+        "License": "GPL 3.0",
+        "Name": "Colorful",
+        "Version": "0.1",
+        "Website": "https://github.com/luxingzhi27/Colorful-Plasma-Theme"
+    }
+}
