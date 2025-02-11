@@ -195,8 +195,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="40.216696"
-     inkscape:cy="92.012265"
+     inkscape:cx="43.796424"
+     inkscape:cy="93.912615"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -381,14 +381,14 @@
          x="-918.36218"
          y="-51"
          fill="currentColor"
-         style="opacity:0.35" />
+         style="opacity:0.28" />
       <rect
          y="-50.999985"
          x="-910.86218"
          height="32"
          width="0.50003201"
          id="rect76"
-         style="opacity:0.5;fill:#60616c;fill-opacity:1;stroke:none;stroke-width:0.288684"
+         style="opacity:1;fill:#737373;fill-opacity:0.3019608;stroke:none;stroke-width:0.288684"
          transform="matrix(0,-1,-1,0,0,0)"
          class="ColorScheme-Highlight" />
     </g>
@@ -400,11 +400,11 @@
          d="m 29,910.36218 c -8.863965,0 -16,7.13604 -16,16 h 16 z"
          class="ColorScheme-Background"
          fill="currentColor"
-         style="opacity:0.35" />
+         style="opacity:0.28" />
       <path
          id="path71"
          class="ColorScheme-Highlight"
-         style="opacity:0.5;fill:#60616c;fill-opacity:1;stroke:none;stroke-width:2.667;stroke-dasharray:none"
+         style="opacity:1;fill:#737373;fill-opacity:0.3019608;stroke:none;stroke-width:2.667;stroke-dasharray:none"
          d="M 60,6 C 51.136035,6 44,13.13604 44,22 l 0.999963,-3.4e-5 c 0,-8.30996 6.690033,-15.0000001 15,-15.0000001 z"
          transform="translate(-31,904.36218)"
          sodipodi:nodetypes="ccccc" />
@@ -417,7 +417,7 @@
        y="920.36218"
        class="ColorScheme-Background"
        fill="currentColor"
-       style="opacity:0.35" />
+       style="opacity:0.28" />
     <g
        style="opacity:1"
        transform="matrix(0.37500332,0,0,1.5555643,36.874926,-505.09806)"
