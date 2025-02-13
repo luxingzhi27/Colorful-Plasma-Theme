@@ -194,9 +194,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000002"
-     inkscape:cx="2.1249999"
-     inkscape:cy="73.874997"
+     inkscape:zoom="3.2404741"
+     inkscape:cx="80.698068"
+     inkscape:cy="79.155084"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -204,7 +204,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1463"
-     inkscape:window-height="846"
+     inkscape:window-height="882"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -381,7 +381,7 @@
          x="-918.36218"
          y="-51"
          fill="currentColor"
-         style="opacity:0.37" />
+         style="opacity:0.4" />
       <rect
          y="-50.999985"
          x="-910.86218"
@@ -400,7 +400,7 @@
          d="m 29,910.36218 c -8.863965,0 -16,7.13604 -16,16 h 16 z"
          class="ColorScheme-Background"
          fill="currentColor"
-         style="opacity:0.37" />
+         style="opacity:0.4" />
       <path
          id="path71"
          class="ColorScheme-Highlight"
@@ -417,7 +417,7 @@
        y="920.36218"
        class="ColorScheme-Background"
        fill="currentColor"
-       style="opacity:0.37" />
+       style="opacity:0.4" />
     <g
        style="opacity:1"
        transform="matrix(0.37500332,0,0,1.5555643,36.874926,-505.09806)"
