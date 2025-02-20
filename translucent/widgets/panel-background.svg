@@ -194,9 +194,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2404741"
-     inkscape:cx="18.978704"
-     inkscape:cy="78.846487"
+     inkscape:zoom="18.33089"
+     inkscape:cx="34.777363"
+     inkscape:cy="86.929769"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -363,10 +363,10 @@
          transform="matrix(0.85714504,0,0,0.85714504,-41.714376,874.9334)" />
       <path
          id="path900"
-         d="m 43.999931,71.49996 c -9.418,0 -16.499986,7.082112 -16.499986,16.500112 L 28,88 c 0,-8.86396 7.136035,-16 16,-16 z"
+         d="m 44,71.000025 c -9.418,0 -17,7.582 -17,17 L 28,88 c 0,-8.86396 7.136035,-16 16,-16 z"
          transform="matrix(0.85714504,0,0,0.85714504,-41.714376,874.9334)"
          class="ColorScheme-Highlight"
-         style="opacity:0.15;fill:#595959;fill-opacity:1"
+         style="opacity:0.15;fill:#000000;fill-opacity:1"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
@@ -388,7 +388,7 @@
          height="32"
          width="0.50003201"
          id="rect76"
-         style="opacity:1;fill:#737373;fill-opacity:0.3019608;stroke:none;stroke-width:0.288684"
+         style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.288684"
          transform="matrix(0,-1,-1,0,0,0)"
          class="ColorScheme-Highlight" />
     </g>
@@ -404,7 +404,7 @@
       <path
          id="path71"
          class="ColorScheme-Highlight"
-         style="opacity:1;fill:#737373;fill-opacity:0.3019608;stroke:none;stroke-width:2.667;stroke-dasharray:none"
+         style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.667;stroke-dasharray:none"
          d="M 60,6 C 51.136035,6 44,13.13604 44,22 l 0.999963,-3.4e-5 c 0,-8.30996 6.690033,-15.0000001 15,-15.0000001 z"
          transform="translate(-31,904.36218)"
          sodipodi:nodetypes="ccccc" />
@@ -457,12 +457,12 @@
       <rect
          y="-50.999844"
          x="-906.07648"
-         height="31.999859"
-         width="0.32144165"
+         height="31.999815"
+         width="0.64282638"
          id="rect1064"
          transform="matrix(0,-1,-1,0,0,0)"
          class="ColorScheme-Highlight"
-         style="opacity:0.15;fill:#595959;fill-opacity:1" />
+         style="opacity:0.15;fill:#000000;fill-opacity:1" />
     </g>
     <rect
        style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.41422"
