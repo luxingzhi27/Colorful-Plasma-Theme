@@ -1,8 +1,8 @@
 [ContrastEffect]
 enabled=true
 contrast=0.3
-intensity=1.1
-saturation=7
+intensity=1.0
+saturation=8
 
 [AdaptiveTransparency]
 enabled=true
